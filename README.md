@@ -7,7 +7,7 @@
 ## 视频播放器: VLC
 ## 截屏: spectacle
 ## 图片查看器: feh
-## 输入法: fcitx+sogouinput
+## 输入法: fcitx+sogoupinyin
 ## ss-qt5
 ## kmix
 ## Dolphin
